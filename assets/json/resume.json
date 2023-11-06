@@ -1,74 +1,159 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "adrien verhulst",
+    "label": "Researcher in Human Computer Interaction",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "adrienverhulst at proton dot me",
+    "phone": "",
+    "url": "adrienverhulst1.github.io",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Tokyo",
+      "countryCode": "JP",
+      "region": "Tokyo"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Sony Computer Science Laboratories (Tokyo, Japan)",
+      "position": "Project Researcher",
+      "url": "https://www.sonycsl.co.jp/",
+      "startDate": "2021-08",
+      "endDate": "",
+      "summary": "Researching dual and multiple embodiment, within the context of the <a href='https://cybernetic-being.org/en/'>Moonshot Cybernetic Being project</a> [on-going]. <a href='https://www.sonycsl.co.jp/member/tokyo/13508/'>More on my motivation here</a>.",
       "highlights": [
-        "Relativity"
+        "Virtual Reality / HCI"
+      ]
+    },
+    {
+      "name": "The University of Tokyo, Department of Advanced Interdisciplinary Study (Tokyo, Japan)",
+      "position": "Project Researcher",
+      "url": "https://star.rcast.u-tokyo.ac.jp/en/",
+      "startDate": "2018-08",
+      "endDate": "2021-08",
+      "summary": "Researching embodiment with unique body types, such as supernumerary arms, within the context of the <a href='https://jizai-body.com'>Erato Jizai project</a>. Development of multiple VR platforms to study how users adapt their behaviors when using a novel body schema, alongside conducting related studies",
+      "highlights": [
+        "Virtual Reality / HCI"
+      ]
+    },
+    {
+      "name": "Théoris (Paris, France)",
+      "position": "Engineering contractor at Trimble",
+      "url": "https://www.theoris.fr/en/home/",
+      "startDate": "2017-08",
+      "endDate": "2018-08",
+      "summary": "Development of a 2D/3D API to visualize and interact with points clouds captured from a 3D scanner. Product shipped with <a href='https://geospatial.trimble.com/en/products/software/trimble-perspective'>Trimble Perspective</a>.",
+      "highlights": [
+        "3D Computer Graphics",
+        "C++ / OpenGL"
+      ]
+    },
+    {
+      "name": "Tokyo University of Science (Tokyo, Japan)",
+      "position": "Software Engineer intern",
+      "url": "https://www.middlevr.com/",
+      "startDate": "2014-04",
+      "endDate": "2014-08",
+      "summary": "Development of a dynamic difficulty adaptation system using physiological signals. Development of a BITalino API for Unity3D (published by BITalino as the only Unity API until ~2018).",
+      "highlights": [
+        "Virtual Reality / HCI",
+        "Unity3D"
+      ]
+    },
+    {
+      "name": "MiddleVR (Paris, France)",
+      "position": "Software Engineer intern",
+      "url": "https://www.middlevr.com/",
+      "startDate": "2013-04",
+      "endDate": "2013-08",
+      "summary": "Development of VR interactions. <a href='https://web.archive.org/web/20161023074147/http://www.middlevr.com/doc/middlevr-for-unity/current#wand_interactions'>Snapshot of 2016 documentation with some shipped interactions.</a>",
+      "highlights": [
+        "Virtual Reality / HCI",
+        "Unity3D"
+      ]
+    },
+    {
+      "name": "Rutgers University, Department of Electrical & Computer Engineering (Rutgers, New Jersey, USA)",
+      "position": "Software Engineer intern",
+      "url": "https://www.theoris.fr/en/home/",
+      "startDate": "2012-04",
+      "endDate": "2012-08",
+      "summary": "Writting a manual on how-to integrate VR devices in Unity3D for undergraduate and graduate students (300 pages, used until 2018).",
+      "highlights": [
+        "Virtual Reality / HCI",
+        "Unity3D"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Ecole Centrale de Nantes (Nantes, France)",
+      "url": "https://www.ec-nantes.fr/english-version",
+      "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2014",
+      "endDate": "2017",
       "score": "",
       "courses": [
-        "Theory of Relativity"
-      ]
-    }
-  ],
-  "awards": [
+        "Virtual Reality / HCI",
+        "3D Computer Graphics"
+      ],
+      "summary": "On the subject of: Feasibility study of consumer behavior studies when buying mishaped fruits and vegetables in a virtual supermarket <a href='/../assets/pdf/Verhulst_thesis.pdf'>(Thesis PDF in French)</a>. Procedural generation of 3D fruits and vegetables meshes / textures."
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "Appalachian State University (Boone, North Carolina, USA)",
+      "url": "https://www.appstate.edu/",
+      "area": "Computer Science",
+      "studyType": "Exchange student",
+      "startDate": "2013-08",
+      "endDate": "2013-12",
+      "score": "",
+      "courses": [
+        "3D Computer Graphics"
+      ],
+      "summary": "Development from scratch of a 3D rendering engine using ray tracing"
+    },
+    {
+      "institution": "Polytech Angers (Angers, France)",
+      "url": "http://www.polytech-angers.fr/en/index.html",
+      "area": "Computer Science",
+      "studyType": "Software Engineering",
+      "startDate": "2010",
+      "endDate": "2014",
+      "score": "",
+      "courses": [
+        "Virtual Reality / HCI",
+        "3D Computer Graphics"
+      ],
+      "summary": ""
     }
   ],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Basic"
     }
   ],
   "interests": [],
