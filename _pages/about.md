@@ -18,4 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am currently working as a project researcher in the field of Human Computer Interaction [HCI] at [Sony Computer Science Laboratories](https://www.sonycsl.co.jp/) (Tokyo, Japan) since 2021.08. I work on novels type of bodies relying on the integration of human and computer, under the direction of [Dr. Kasahara Shunichi](https://shunichikasahara.com/).
+I am currently working as a project researcher in the field of Human Computer Interaction [HCI] at [Sony Computer Science Laboratories](https://www.sonycsl.co.jp/) (Tokyo, Japan) since 2021.08. I work on novels type of bodies relying on the integration of human and computer, under the direction of [Dr. Kasahara Shunichi](https://shunichikasahara.com/). 
